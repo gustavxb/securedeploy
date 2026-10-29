@@ -2,7 +2,7 @@
 <div align="center">
   <img src="secbot-banner.png" alt="SecBot — Intelligent API Security Testing" width="100%">
 </div>
-**SecBot** é uma ferramenta web em desenvolvimento que tem como objetivo auxiliar desenvolvedores na identificação de vulnerabilidades em APIs, na validação de correções e na detecção de regressões de segurança.
+SecBot é uma ferramenta web em desenvolvimento que tem como objetivo auxiliar desenvolvedores na identificação de vulnerabilidades em APIs, na validação de correções e na detecção de regressões de segurança.
 
 O projeto está sendo desenvolvido como Trabalho de Conclusão de Curso (TCC), com foco em **DevSecOps, Security by Design e Shift-Left Security**.
 
